@@ -1,5 +1,5 @@
 # googlemaps-2-mapbox
-convert google maps ID to mapbox ID
+Convert Google Maps IDs to Mapbox IDs
 
 ## Usage
 

@@ -1,8 +1,8 @@
 /**
  * Converts a Google Place ID to a Mapbox ID
  * 
- * const geoconverter = new Geoconverter({google: 'xxx', mapbox: 'xxx'})
- * const newId = await geoconverter.convert('XXXXXXXX')
+ * const converter = new Geoconverter({google: 'xxx', mapbox: 'xxx'})
+ * const newId = await converter.convert('XXXXXXXX')
  */
 module.exports = class Geoconverter {
     constructor(options) {
