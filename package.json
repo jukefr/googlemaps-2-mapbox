@@ -1,0 +1,24 @@
+{
+  "name": "googlemaps-2-mapbox",
+  "version": "1.0.0",
+  "description": "Convert Google Maps IDs to Mapbox IDs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jukefr/googlemaps-2-mapbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/jukefr/googlemaps-2-mapbox/issues"
+  },
+  "homepage": "https://github.com/jukefr/googlemaps-2-mapbox#readme",
+  "dependencies": {
+    "@google/maps": "^0.5.5",
+    "@mapbox/mapbox-sdk": "^0.4.1"
+  }
+}
