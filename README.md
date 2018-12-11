@@ -1,6 +1,7 @@
 # googlemaps-2-mapbox
 
-Convert Google Maps IDs to Mapbox IDs
+Convert Google Maps IDs to Mapbox IDs.
+
 Checks if the geometric coordinates (lat/lng) are within tolerated bounds (default is 0.5% tolerance).
 
 ## Usage
