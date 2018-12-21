@@ -1,7 +1,7 @@
 {
   "name": "googlemaps-2-mapbox",
   "version": "3.0.1",
-  "description": "Convert Google Maps IDs to Mapbox IDs",
+  "description": "Convert a Google Maps ID to a Mapbox ID",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
