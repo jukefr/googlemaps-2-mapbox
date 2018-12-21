@@ -58,7 +58,6 @@ const mapboxLocationToAddress = async ({
   (await clients.mapboxClient
     .reverseGeocode({
       query: [lng, lat],
-      mode: "mapbox.places",
       limit: 1
     })
     .send()).body.features[0].id;
